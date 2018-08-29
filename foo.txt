@@ -1,1 +1,2 @@
 this line will overwrite foo.txt content
+added a 2nd line to foo.txt
